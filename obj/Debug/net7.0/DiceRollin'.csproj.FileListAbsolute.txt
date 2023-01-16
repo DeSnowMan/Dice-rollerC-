@@ -1,0 +1,15 @@
+F:\computer_science\C#\DiceRollin'\bin\Debug\net7.0\DiceRollin'.exe
+F:\computer_science\C#\DiceRollin'\bin\Debug\net7.0\DiceRollin'.deps.json
+F:\computer_science\C#\DiceRollin'\bin\Debug\net7.0\DiceRollin'.runtimeconfig.json
+F:\computer_science\C#\DiceRollin'\bin\Debug\net7.0\DiceRollin'.dll
+F:\computer_science\C#\DiceRollin'\bin\Debug\net7.0\DiceRollin'.pdb
+F:\computer_science\C#\DiceRollin'\obj\Debug\net7.0\DiceRollin'.csproj.AssemblyReference.cache
+F:\computer_science\C#\DiceRollin'\obj\Debug\net7.0\DiceRollin'.GeneratedMSBuildEditorConfig.editorconfig
+F:\computer_science\C#\DiceRollin'\obj\Debug\net7.0\DiceRollin'.AssemblyInfoInputs.cache
+F:\computer_science\C#\DiceRollin'\obj\Debug\net7.0\DiceRollin'.AssemblyInfo.cs
+F:\computer_science\C#\DiceRollin'\obj\Debug\net7.0\DiceRollin'.csproj.CoreCompileInputs.cache
+F:\computer_science\C#\DiceRollin'\obj\Debug\net7.0\DiceRollin'.dll
+F:\computer_science\C#\DiceRollin'\obj\Debug\net7.0\refint\DiceRollin'.dll
+F:\computer_science\C#\DiceRollin'\obj\Debug\net7.0\DiceRollin'.pdb
+F:\computer_science\C#\DiceRollin'\obj\Debug\net7.0\DiceRollin'.genruntimeconfig.cache
+F:\computer_science\C#\DiceRollin'\obj\Debug\net7.0\ref\DiceRollin'.dll
